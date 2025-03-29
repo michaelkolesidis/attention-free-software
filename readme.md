@@ -1,6 +1,4 @@
-# Attention Free Software
-
-![Attention Free Software](./Attention_Free_Software.svg)  
+![AttentionFree Software](./Attention_Free_Software.svg)  
 
 ![Attention Free Software](./Attention_Free_Software_with_Text.svg)
 
